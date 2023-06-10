@@ -20,5 +20,18 @@ Problem and Solution Explanation Blog - https://medium.com/@meetarthi/hackerrank
 
 
 **4. Dynamic Array**
+-------------------------
 HackerRank Problem Link - https://www.hackerrank.com/challenges/dynamic-array/problem?isFullScreen=true
 Problem and Solution Explanation Blog - https://medium.com/@meetarthi/dynamic-array-python-hackerrank-dsa-problem-75be1c4ff66a
+
+
+**5. Left rotation**
+-------------------------
+HackerRank Problem Link - https://www.hackerrank.com/challenges/array-left-rotation/problem?isFullScreen=true
+Problem and Solution Explanation Blog - https://medium.com/@meetarthi/hackerrank-data-structure-left-rotation-912ee4a59132
+
+
+**6. Sparse Arrays**
+------------------------
+HackerRank Problem Link - https://www.hackerrank.com/challenges/sparse-arrays/problem?isFullScreen=true
+Problem and Solution Explanation Blog - https://medium.com/@meetarthi/hackerrank-data-structure-sparse-arrays-7f93ae858c1d
